@@ -1,0 +1,15 @@
+{
+  "name": "venomousboy/structures",
+  "description": "Structures",
+  "type": "library",
+  "license": "proprietary",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Venomousboy\\Structures\\": "src/"
+    }
+  }
+}
